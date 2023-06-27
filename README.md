@@ -1,4 +1,4 @@
-#¡Hola! Soy Jorge Godoy Vergara 
+##¡Hola! Soy Jorge Godoy Vergara 
 alias Jorgitsss, un ingeniero electrónico y programador de La Calera, Chile. En este repositorio,encontraras una variedad de proyectos y trabajos que reflejan mi personalidad y mi pasión por la programación y la electrónica.
 
 ---
@@ -17,4 +17,4 @@ Mi objetivo principal es la **robótica** y la **conectividad** enfocada al **Io
 
 ¡No dudes en explorar este repositorio para descubrir más sobre mis trabajos y proyectos.
 
-👥 [LinkedIn](https://www.linkedin.com/jorgitsss
+👥 [LinkedIn](https://www.linkedin.com/in/jorge-godoy-vergara-8a912129)
