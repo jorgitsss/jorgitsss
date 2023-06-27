@@ -1,6 +1,5 @@
-# Repositorio Principal de Jorgitss
-
-¡Hola! Soy Jorge Godoy Vergara alias Jorgitsss, un ingeniero electrónico y programador de La Calera, Chile. En este repositorio,encontraras una variedad de proyectos y trabajos que reflejan mi personalidad y mi pasión por la programación y la electrónica.
+#¡Hola! Soy Jorge Godoy Vergara 
+alias Jorgitsss, un ingeniero electrónico y programador de La Calera, Chile. En este repositorio,encontraras una variedad de proyectos y trabajos que reflejan mi personalidad y mi pasión por la programación y la electrónica.
 
 ---
 
